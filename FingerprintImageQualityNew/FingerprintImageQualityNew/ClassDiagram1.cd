@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FingerprintImageQualityNew.Algorithm.Analysis.Angle" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAIAgAAAAAACBABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Algorithm\Analysis\Angle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.Algorithm.Analysis.GlobalQualityAnalysis" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAQEAgAAAAAAEEAAAAAAAA=</HashCode>
+      <FileName>Algorithm\Analysis\GlobalQualityAnalysis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.Algorithm.Analysis.LocalQualityAnalysis" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBAAAACCAQCAAAAAACQCAECBiQEAQBIAAsAAABAHAAA=</HashCode>
+      <FileName>Algorithm\Analysis\LocalQualityAnalysis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.Algorithm.Analysis.OrientationImage" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIBAEACJAAAAAAACABAAEAAAAAAAAAAAAIEAAAEAAA=</HashCode>
+      <FileName>Algorithm\Analysis\OrientationImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.Algorithm.Analysis.ProcessingBlock" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAEAAAAAAABAAAAAIAAIAAAEgEAAoAgAAAA=</HashCode>
+      <FileName>Algorithm\Analysis\ProssessingBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.Algorithm.Analysis.Ratha1995OrImgExtractor" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwgAAAAAAAAAAAAABAAAAABAQAAAAAAAQAAADAAAAA=</HashCode>
+      <FileName>Algorithm\Analysis\Ratha1995OrImgExtractor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.Algorithm.ChaohongWuAlgorithm" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAABAAAAAAAEAAAIAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Algorithm\ChaohongWuAlgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.Algorithm.Maps.ContrastMap" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Algorithm\Maps\ContrastMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.Algorithm.Maps.InHomMap" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Algorithm\Maps\InHomMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.Algorithm.Maps.MeanMap" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Algorithm\Maps\MeanMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.Algorithm.Maps.OrientationCoherenceMap" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAABAA=</HashCode>
+      <FileName>Algorithm\Maps\OriCoherenceMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.Algorithm.Maps.QualityEstimationMap" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Algorithm\Maps\QualityEstimationMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.Algorithm.Maps.SmoothMap" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Algorithm\Maps\SmoothMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.Algorithm.Maps.StdDevMap" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Algorithm\Maps\StdDevMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.Algorithm.Maps.UniformityMap" Collapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Algorithm\Maps\UniformityMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.Algorithm.Maps.VarianceMap" Collapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Algorithm\Maps\VarianceMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.Controler" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAQAAAAAAAAAAAAAAAAAAIEAAAAAAAA=</HashCode>
+      <FileName>Controler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.QualityFacade" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAEAAAAAAAAAIgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QualityFacade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.ImageProcessing.ConvolutionFilter" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABABBAAAAEACAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImageProcessing\ConvolutionFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.ImageProcessing.ImageBasicTools" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>ImageProcessing\ImageBasicTools.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.ImageProcessing.ImageMatrix" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAEAAAEACIAAAEAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>ImageProcessing\ImageMatrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.ImageProcessing.ConvolutionFilters.GaussianBlur" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABABAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImageProcessing\ConvolutionFilters\GaussianBlur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.ImageProcessing.ConvolutionFilters.SobelHorizontalFilter" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABABAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImageProcessing\ConvolutionFilters\SobelHorizontalFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerprintImageQualityNew.ImageProcessing.ConvolutionFilters.SobelVerticalFilter" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABABAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImageProcessing\ConvolutionFilters\SobelVerticalFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="FingerprintImageQualityNew.Algorithm.ImageQuality" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAABAAAAAAAAAAAIAAAFAAAAAAAAAAE=</HashCode>
+      <FileName>Algorithm\ChaohongWuAlgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FingerprintImageQualityNew.Algorithm.ImageQualityNistMetric" Collapsed="true">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Algorithm\ChaohongWuAlgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FingerprintImageQualityNew.Algorithm.Maps.BlockQuality" Collapsed="true">
+    <Position X="11" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQQAAAAAAAAAAAEAAAAAAEAQAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Algorithm\Maps\QualityEstimationMap.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,15 @@
+Posibles requisitos funcionales
+-------------------------------
+
+RF1. El sistema debe de ser capaz de procesar todo tipo de imagenes de huellas dactilares. (jpg, tif, wsq, etc.)
+
+RF2. El sistema debe de ser capaz de determinar la calidad de una imagen de huella dactilar dada.
+
+RF3. El sistema debe de ser capaz de generar el mapa de calidad de una imagen de huella dada.
+
+RF4. El sistema debe de ser capaz de determinar la calidad de un set (carpeta con una cantidad de imagnes de huellas dada)
+de huellas dactilares que se cargue en el mismo.
+
+RF5. El sistema debe de ser capaz de generar el mapa de calidad de un set (carpeta con una cantidad de imagnes de huellas dada)
+de huellas dactilares que se cargue en el mismo.
+

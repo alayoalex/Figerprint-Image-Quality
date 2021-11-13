@@ -1,0 +1,18 @@
+TO DO de la tesis
+-----------------
+
+TO DO 1. Definir requisitos funcionales.
+
+TO DO 2. Ver cómo voy a clasificar cada bloque de la huella, es decir, cómo decidir cuál de los 5 niveles de calidad darle a
+cada bloque en dependencia de los valores calculados de la media, la varianza, la desviación estandar, la suavidad, la
+inHomogenity y la coherencia de la orientación de la imagen.
+
+TO DO 3. Ver si aplico un Análisis de Componentes Principales para definir cuanta correlación hay entre cada uno de los
+parámetros antes mencionados que se le calcula a cada huella.
+
+TO DO 4. Definir cómo vamos a plasmar (escribir) en la tesis por qué se escogieron cinco niveles de calidad según los
+resultados del weka con el k-means y la clusterización y los resultados de la ejecución del programa de gregorio.
+
+TO DO 5. Buscar la menera de medir el contraste direnccional por bloque de una huella como lo dice en el documento de
+Yerandis, o internet u otro paper.
+

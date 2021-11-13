@@ -1,0 +1,46 @@
+=== Run information ===
+
+Scheme:       weka.clusterers.SimpleKMeans -P -N 5 -A "weka.core.EuclideanDistance -R first-last" -I 500 -num-slots 1 -S 1992
+Relation:     vectores
+Instances:    812
+Attributes:   3
+              caracteristica0
+              caracteristica1
+              caracteristica2
+Test mode:    evaluate on training data
+
+
+=== Clustering model (full training set) ===
+
+
+kMeans
+======
+
+Number of iterations: 20
+Within cluster sum of squared errors: 22.25357773223561
+Missing values globally replaced with mean/mode
+
+Cluster centroids:
+                               Cluster#
+Attribute          Full Data          0          1          2          3          4
+                       (812)      (193)      (178)      (145)      (143)      (153)
+===================================================================================
+caracteristica0    6620.6638 20294.6624  1186.4928  1059.3717  2254.6535  5045.0269
+caracteristica1    1443.6901   169.0854  2464.5863  2699.2377  1342.5836   768.4159
+caracteristica2       0.3247          0     0.7129      0.376     0.4915     0.0781
+
+
+
+
+Time taken to build model (full training data) : 0.09 seconds
+
+=== Model and evaluation on training set ===
+
+Clustered Instances
+
+0      193 ( 24%)
+1      178 ( 22%)
+2      145 ( 18%)
+3      143 ( 18%)
+4      153 ( 19%)
+
